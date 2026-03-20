@@ -1,0 +1,4 @@
+// Activates Cypress Intelli sense for whole project
+{
+  "include": ["./node_modules/cypress", "cypress/**/*.js"]
+}
